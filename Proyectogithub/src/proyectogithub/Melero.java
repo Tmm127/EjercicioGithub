@@ -12,4 +12,10 @@ public class Melero {
     public static void mensaje2(){
         System.out.println("apellido ");
     }
+    public static void sumas(){
+        int a=4;
+        int b=5;
+        int resultado;
+        resultado=b+a;
+    }
 }
