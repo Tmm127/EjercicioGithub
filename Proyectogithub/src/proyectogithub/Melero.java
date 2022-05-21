@@ -9,5 +9,7 @@ package proyectogithub;
  * @author Usuario
  */
 public class Melero {
-    
+    public static void mensaje2(){
+        System.out.println("apellido ");
+    }
 }
